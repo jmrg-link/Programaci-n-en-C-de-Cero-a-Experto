@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion_en_C_de_Cero_a_Experto_con_Estructuras_de_Datos.iml" filepath="$PROJECT_DIR$/.idea/Programacion_en_C_de_Cero_a_Experto_con_Estructuras_de_Datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso_c_de_cero_a_experto.iml" filepath="$PROJECT_DIR$/.idea/curso_c_de_cero_a_experto.iml" />
     </modules>
   </component>
 </project>
