@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Programación en C de Cero a Experto</h1>
-  <img src="./assets/c_logo.jpg" alt="c logo" height="300px">
+  <img src="./assets/c-logo.jpg" alt="c logo" height="300px">
   <h3 style="font-weight:bold;" >Programación en C de Cero a Experto con Estructuras de Datos (44H)</h3>
   <h5></h5>
 </div>
