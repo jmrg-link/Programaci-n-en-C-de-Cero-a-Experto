@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Vue.js: De cero a experto</h1>
-  <img src="./assets/c++_logo.png" alt="vue logo" height="300px">
+  <img src="./assets/c++_logo.png" alt="c++ logo" height="300px">
   <h3 style="font-weight:bold;" >Programación en C de Cero a Experto con Estructuras de Datos (44H)</h3>
   <h5></h5>
 </div>
